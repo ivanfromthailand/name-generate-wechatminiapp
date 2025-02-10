@@ -3,5 +3,14 @@ An AI based name generating mini app
 
 Features
 
-1. Select the culture background of the name
-2. Select gender, binary
+
+Support user to select the cultural background of the name
+    - Chinese: 
+        - Wuxing(Elemental Associations (Fire, Water, Earth, Metal, Wood)
+
+Support user to put in: 
+    - gender(W, M, Unisex), 
+    - family name, 
+    - name's length(short, medium, long)
+    - desired meaning
+    - 
