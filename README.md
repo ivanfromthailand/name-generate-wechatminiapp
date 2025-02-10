@@ -5,8 +5,15 @@ Features
 
 
 Support user to select the cultural background of the name
+V1:
     - Chinese: 
-        - Wuxing(Elemental Associations (Fire, Water, Earth, Metal, Wood)
+    - English:
+V2:
+    - Japanese:
+    - Korean:
+    - Russian:
+    - Ukranian:
+    - Arabic/Islamic:
 
 Support user to put in: 
     - gender(W, M, Unisex), 
